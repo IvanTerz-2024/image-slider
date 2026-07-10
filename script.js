@@ -1,9 +1,9 @@
 const images = [
-  { src: "images/image1.jpg", alt: "Горный пейзаж" },
-  { src: "images/image2.jpg", alt: "Морской пейзаж" },
-  { src: "images/image3.jpg", alt: "Городской пейзаж" },
-  { src: "images/image4.jpg", alt: "Лесной пейзаж" },
-  { src: "images/image5.jpg", alt: "Пустынный пейзаж" }
+  { src: "image1.jpg", alt: "Горный пейзаж" },
+  { src: "image2.jpg", alt: "Морской пейзаж" },
+  { src: "image3.jpg", alt: "Городской пейзаж" },
+  { src: "image4.jpg", alt: "Лесной пейзаж" },
+  { src: "image5.jpg", alt: "Пустынный пейзаж" }
 ];
 
 let currentIndex = 0;
